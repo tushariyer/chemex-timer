@@ -1,2 +1,2 @@
 # chemex-timer
-A Chemed brew timer written in React
+A Chemex brew timer written in React
